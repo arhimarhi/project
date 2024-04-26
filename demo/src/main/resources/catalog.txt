@@ -1,0 +1,10 @@
+1 Cucumber 20
+2 Tomato 25
+3 Potato 10
+4 Pepper 30
+5 Egg 5
+6 Milk 65
+7 Coca-Cola 95
+8 Ice Cream 55
+9 Nuts 125
+10 Bread 45
